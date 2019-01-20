@@ -7,8 +7,7 @@ namespace ProjetoJogo
         static void Main(string[] args)
         {
             Console.WriteLine("Bom dia! ");
-
-            Console.WriteLine("Como voce esta hoje? ");
+            Console.WriteLine("Tenha um otimo Dia");
         }
     }
 }
